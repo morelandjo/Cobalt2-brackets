@@ -1,10 +1,10 @@
 {
-    "name": "cobalt-two",
-    "title": "Cobalt 2",
-    "description": "Cobalt two Theme for brackets",
+    "name": "cobalt-two-mod",
+    "title": "Cobalt 2 Mod",
+    "description": "Cobalt two Theme for brackets, morelandjo modded",
     "version": "1.0.0",
-    "author": "CRY-D (https://github.com/CRY-D) <twitter@cryptoDOGE3>",
-    "homepage": "https://github.com/CRY-D/Cobalt2-bracketsc",
+    "author": "CRY-D (https://github.com/CRY-D) <twitter@cryptoDOGE3>, morelandjo fork: https://github.com/morelandjo",
+    "homepage": "https://github.com/morelandjo/Cobalt2-bracketsc",
     "license": "MIT",
     "theme": {
         "file": "cobalt2.css",
