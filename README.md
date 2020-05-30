@@ -1,5 +1,7 @@
 # Cobalt2-brackets Syntax
 
+Fork Note: The variable green was a little too bright for my tastes, otherwise great theme.
+
 Cobalt2, Sublime Text theme, ported to brackets
 
 brackets syntax theme based Atom cobalt2 - <https://github.com/wesbos/cobalt2-atom>
